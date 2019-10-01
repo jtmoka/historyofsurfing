@@ -1,0 +1,15 @@
+body{
+  font-family: 'Lato', sans-serif;
+  color: darkblue;
+  margin: 10px 50px 10px 50px;
+  background-color: Ivory;
+}
+h1{
+  align-items: center;
+  font-family: 'Roboto', sans-serif;
+}
+
+img{
+  float: left;
+  margin: 10px;
+}
